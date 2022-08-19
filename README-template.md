@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Product preview card component](https://your-live-site-url.com)
+- Solution URL: [http://127.0.0.1:5500/](https://your-solution-url.com)
+- Live Site URL: [http://127.0.0.1:5500/](https://your-live-site-url.com)
 
 ## My process
 
