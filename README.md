@@ -2,6 +2,9 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
+![Web capture_17-8-2022_103011_127 0 0 1](https://user-images.githubusercontent.com/107750683/185717657-dcab7a81-fe99-4367-9940-491cff06ad32.jpeg)
+![Web capture_17-8-2022_102922_127 0 0 1](https://user-images.githubusercontent.com/107750683/185717660-13f46d65-f91a-478e-9649-06eb3d82167a.jpeg)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
